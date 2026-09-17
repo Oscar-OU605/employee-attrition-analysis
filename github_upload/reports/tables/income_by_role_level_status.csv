@@ -1,0 +1,47 @@
+﻿JobRole,JobLevel,Attrition,employees,median_income,mean_income,small_sample
+Healthcare Representative,2,No,75,5731.0,5828.28,False
+Healthcare Representative,2,Yes,3,6673.0,6792.0,True
+Healthcare Representative,3,No,39,9985.0,9426.28205128205,False
+Healthcare Representative,3,Yes,5,8722.0,8877.8,True
+Healthcare Representative,4,No,8,13540.0,13073.5,True
+Healthcare Representative,4,Yes,1,12169.0,12169.0,True
+Human Resources,1,No,23,2706.0,2871.2608695652175,True
+Human Resources,1,Yes,10,2449.5,2415.7,True
+Human Resources,2,No,13,5985.0,5563.461538461538,True
+Human Resources,3,No,4,9296.5,9326.5,True
+Human Resources,3,Yes,2,10216.0,10216.0,True
+Laboratory Technician,1,No,144,2742.0,2921.7083333333335,False
+Laboratory Technician,1,Yes,56,2538.0,2682.0,False
+Laboratory Technician,2,No,51,4425.0,4394.0,False
+Laboratory Technician,2,Yes,5,4883.0,5084.2,True
+Laboratory Technician,3,No,2,6306.5,6306.5,True
+Laboratory Technician,3,Yes,1,5381.0,5381.0,True
+Manager,3,No,10,11910.0,12133.7,True
+Manager,3,Yes,2,12729.5,12729.5,True
+Manager,4,No,47,16823.0,16613.27659574468,False
+Manager,5,No,40,19193.5,19159.575,False
+Manager,5,Yes,3,19845.0,19509.333333333332,True
+Manufacturing Director,2,No,85,5295.0,5644.870588235294,False
+Manufacturing Director,2,Yes,5,4855.0,5066.8,True
+Manufacturing Director,3,No,40,9407.0,9262.4,False
+Manufacturing Director,3,Yes,5,10048.0,9664.2,True
+Manufacturing Director,4,No,10,13324.5,13383.0,True
+Research Director,3,No,28,13198.5,12721.57142857143,True
+Research Director,4,No,26,16612.5,16429.03846153846,True
+Research Director,5,No,24,19282.5,19188.916666666668,True
+Research Director,5,Yes,2,19395.5,19395.5,True
+Research Scientist,1,No,189,2725.0,2859.4550264550267,False
+Research Scientist,1,Yes,45,2439.0,2694.0666666666666,False
+Research Scientist,2,No,55,4869.0,4822.345454545454,False
+Research Scientist,2,Yes,2,4724.5,4724.5,True
+Research Scientist,3,No,1,9724.0,9724.0,True
+Sales Executive,2,No,197,5441.0,5760.218274111675,False
+Sales Executive,2,Yes,36,5680.5,6023.416666666667,False
+Sales Executive,3,No,62,9139.5,9103.661290322581,False
+Sales Executive,3,Yes,17,9582.0,9202.764705882353,True
+Sales Executive,4,No,10,13272.5,13125.2,True
+Sales Executive,4,Yes,4,13444.5,13395.75,True
+Sales Representative,1,No,44,2594.5,2603.659090909091,False
+Sales Representative,1,Yes,32,2338.0,2373.4375,False
+Sales Representative,2,No,6,4021.0,4226.833333333333,True
+Sales Representative,2,Yes,1,2086.0,2086.0,True

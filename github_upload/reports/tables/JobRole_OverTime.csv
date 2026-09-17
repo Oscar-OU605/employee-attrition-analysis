@@ -1,0 +1,19 @@
+﻿JobRole,OverTime,employees,leavers,attrition_rate,small_sample
+Healthcare Representative,No,94,7,0.07446808510638298,False
+Healthcare Representative,Yes,37,2,0.05405405405405406,False
+Human Resources,No,39,7,0.1794871794871795,False
+Human Resources,Yes,13,5,0.38461538461538464,True
+Laboratory Technician,No,197,31,0.15736040609137056,False
+Laboratory Technician,Yes,62,31,0.5,False
+Manager,No,75,1,0.013333333333333334,False
+Manager,Yes,27,4,0.14814814814814814,True
+Manufacturing Director,No,106,6,0.05660377358490566,False
+Manufacturing Director,Yes,39,4,0.10256410256410256,False
+Research Director,No,57,1,0.017543859649122806,False
+Research Director,Yes,23,1,0.043478260869565216,True
+Research Scientist,No,195,14,0.07179487179487179,False
+Research Scientist,Yes,97,33,0.3402061855670103,False
+Sales Executive,No,232,26,0.11206896551724138,False
+Sales Executive,Yes,94,31,0.32978723404255317,False
+Sales Representative,No,59,17,0.288135593220339,False
+Sales Representative,Yes,24,16,0.6666666666666666,True

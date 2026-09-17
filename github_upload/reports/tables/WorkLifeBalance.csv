@@ -1,0 +1,5 @@
+﻿WorkLifeBalance,employees,leavers,attrition_rate,small_sample
+1,80,25,0.3125,False
+2,344,58,0.1686046511627907,False
+3,893,127,0.1422172452407615,False
+4,153,27,0.17647058823529413,False

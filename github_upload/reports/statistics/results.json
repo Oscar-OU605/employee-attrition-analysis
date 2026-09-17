@@ -1,0 +1,59 @@
+{
+  "primary_test": {
+    "method": "Pearson chi-square, no continuity correction",
+    "chi_square": 89.04387862461931,
+    "df": 1,
+    "p_value": 3.861517910432886e-21,
+    "expected_counts": [
+      [
+        67.06938775510204,
+        348.930612244898
+      ],
+      [
+        169.93061224489796,
+        884.0693877551021
+      ]
+    ],
+    "minimum_expected": 67.06938775510204
+  },
+  "overall": {
+    "group": "全部员工",
+    "overtime_n": 416,
+    "overtime_leavers": 127,
+    "overtime_rate": 0.30528846153846156,
+    "overtime_ci_low": 0.2629822980581697,
+    "overtime_ci_high": 0.3511577622039899,
+    "no_overtime_n": 1054,
+    "no_overtime_leavers": 110,
+    "no_overtime_rate": 0.10436432637571158,
+    "no_overtime_ci_low": 0.08732129555122461,
+    "no_overtime_ci_high": 0.12428078995432715,
+    "difference": 0.20092413516274998,
+    "ci_low": 0.15416435554501118,
+    "ci_high": 0.24985733088129114,
+    "minimum_expected": 67.06938775510204,
+    "sparse_expected": false,
+    "small_sample": false
+  },
+  "exploratory_cmh": {
+    "JobRole": {
+      "chi_square": 96.44247205136512,
+      "df": 1,
+      "p_value": 9.187496733770906e-23,
+      "continuity_correction": false,
+      "strata": 9,
+      "sparse_strata": 5
+    },
+    "JobLevel": {
+      "chi_square": 92.17690130411711,
+      "df": 1,
+      "p_value": 7.92645700512128e-22,
+      "continuity_correction": false,
+      "strata": 5,
+      "sparse_strata": 2
+    }
+  },
+  "confidence_method": "95% Newcombe difference from Wilson intervals",
+  "subgroup_intervals": "pointwise, unadjusted; not simultaneous confidence intervals",
+  "models_trained": false
+}

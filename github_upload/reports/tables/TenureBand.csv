@@ -1,0 +1,5 @@
+﻿TenureBand,employees,leavers,attrition_rate,small_sample
+0–1年,215,75,0.3488372093023256,False
+2–4年,365,66,0.18082191780821918,False
+5–9年,524,58,0.11068702290076336,False
+10年以上,366,38,0.10382513661202186,False

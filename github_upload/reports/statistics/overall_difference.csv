@@ -1,0 +1,2 @@
+﻿group,overtime_n,overtime_leavers,overtime_rate,overtime_ci_low,overtime_ci_high,no_overtime_n,no_overtime_leavers,no_overtime_rate,no_overtime_ci_low,no_overtime_ci_high,difference,ci_low,ci_high,minimum_expected,sparse_expected,small_sample
+全部员工,416,127,0.30528846153846156,0.2629822980581697,0.3511577622039899,1054,110,0.10436432637571158,0.08732129555122461,0.12428078995432715,0.20092413516274998,0.15416435554501118,0.24985733088129114,67.06938775510204,False,False

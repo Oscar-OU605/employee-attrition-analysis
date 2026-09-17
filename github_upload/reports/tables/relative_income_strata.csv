@@ -1,0 +1,52 @@
+﻿JobRole,JobLevel,RelativeIncome,employees,leavers,attrition_rate,small_sample
+Healthcare Representative,2,中位数及以上,39,2,0.05128205128205128,False
+Healthcare Representative,2,低于组内中位数,39,1,0.02564102564102564,False
+Healthcare Representative,3,中位数及以上,22,1,0.045454545454545456,True
+Healthcare Representative,3,低于组内中位数,22,4,0.18181818181818182,True
+Healthcare Representative,4,中位数及以上,5,0,0.0,True
+Healthcare Representative,4,低于组内中位数,4,1,0.25,True
+Human Resources,1,中位数及以上,17,4,0.23529411764705882,True
+Human Resources,1,低于组内中位数,16,6,0.375,True
+Human Resources,2,中位数及以上,7,0,0.0,True
+Human Resources,2,低于组内中位数,6,0,0.0,True
+Human Resources,3,中位数及以上,3,2,0.6666666666666666,True
+Human Resources,3,低于组内中位数,3,0,0.0,True
+Laboratory Technician,1,中位数及以上,100,23,0.23,False
+Laboratory Technician,1,低于组内中位数,100,33,0.33,False
+Laboratory Technician,2,中位数及以上,28,4,0.14285714285714285,True
+Laboratory Technician,2,低于组内中位数,28,1,0.03571428571428571,True
+Laboratory Technician,3,中位数及以上,2,1,0.5,True
+Laboratory Technician,3,低于组内中位数,1,0,0.0,True
+Manager,3,中位数及以上,6,1,0.16666666666666666,True
+Manager,3,低于组内中位数,6,1,0.16666666666666666,True
+Manager,4,中位数及以上,24,0,0.0,True
+Manager,4,低于组内中位数,23,0,0.0,True
+Manager,5,中位数及以上,22,2,0.09090909090909091,True
+Manager,5,低于组内中位数,21,1,0.047619047619047616,True
+Manufacturing Director,2,中位数及以上,45,2,0.044444444444444446,False
+Manufacturing Director,2,低于组内中位数,45,3,0.06666666666666667,False
+Manufacturing Director,3,中位数及以上,23,4,0.17391304347826086,True
+Manufacturing Director,3,低于组内中位数,22,1,0.045454545454545456,True
+Manufacturing Director,4,中位数及以上,5,0,0.0,True
+Manufacturing Director,4,低于组内中位数,5,0,0.0,True
+Research Director,3,中位数及以上,14,0,0.0,True
+Research Director,3,低于组内中位数,14,0,0.0,True
+Research Director,4,中位数及以上,13,0,0.0,True
+Research Director,4,低于组内中位数,13,0,0.0,True
+Research Director,5,中位数及以上,13,1,0.07692307692307693,True
+Research Director,5,低于组内中位数,13,1,0.07692307692307693,True
+Research Scientist,1,中位数及以上,117,14,0.11965811965811966,False
+Research Scientist,1,低于组内中位数,117,31,0.26495726495726496,False
+Research Scientist,2,中位数及以上,29,1,0.034482758620689655,True
+Research Scientist,2,低于组内中位数,28,1,0.03571428571428571,True
+Research Scientist,3,中位数及以上,1,0,0.0,True
+Sales Executive,2,中位数及以上,117,19,0.1623931623931624,False
+Sales Executive,2,低于组内中位数,116,17,0.14655172413793102,False
+Sales Executive,3,中位数及以上,40,9,0.225,False
+Sales Executive,3,低于组内中位数,39,8,0.20512820512820512,False
+Sales Executive,4,中位数及以上,7,2,0.2857142857142857,True
+Sales Executive,4,低于组内中位数,7,2,0.2857142857142857,True
+Sales Representative,1,中位数及以上,38,14,0.3684210526315789,False
+Sales Representative,1,低于组内中位数,38,18,0.47368421052631576,False
+Sales Representative,2,中位数及以上,4,0,0.0,True
+Sales Representative,2,低于组内中位数,3,1,0.3333333333333333,True

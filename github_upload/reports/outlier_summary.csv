@@ -1,0 +1,15 @@
+﻿field,q1,q3,lower,upper,flagged
+Age,30.0,43.0,10.5,62.5,0
+DailyRate,465.0,1157.0,-573.0,2195.0,0
+DistanceFromHome,2.0,14.0,-16.0,32.0,0
+HourlyRate,48.0,83.75,-5.625,137.375,0
+MonthlyIncome,2911.0,8379.0,-5291.0,16581.0,114
+MonthlyRate,8047.0,20461.5,-10574.75,39083.25,0
+NumCompaniesWorked,1.0,4.0,-3.5,8.5,52
+PercentSalaryHike,12.0,18.0,3.0,27.0,0
+TotalWorkingYears,6.0,15.0,-7.5,28.5,63
+TrainingTimesLastYear,2.0,3.0,0.5,4.5,238
+YearsAtCompany,3.0,9.0,-6.0,18.0,104
+YearsInCurrentRole,2.0,7.0,-5.5,14.5,21
+YearsSinceLastPromotion,0.0,3.0,-4.5,7.5,107
+YearsWithCurrManager,2.0,7.0,-5.5,14.5,14

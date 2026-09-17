@@ -1,0 +1,4 @@
+﻿Department,employees,leavers,attrition_rate,small_sample
+Human Resources,63,12,0.19047619047619047,False
+Research & Development,961,133,0.1383975026014568,False
+Sales,446,92,0.2062780269058296,False

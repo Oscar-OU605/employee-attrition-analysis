@@ -1,0 +1,36 @@
+﻿field,storage_type,semantic_type,missing,unique,minimum,maximum,blank,surrounding_spaces,values
+Age,int64,数量,0,43,18,60,0,0,
+Attrition,str,目标类别,0,2,,,0,0,"[""No"", ""Yes""]"
+BusinessTravel,str,类别,0,3,,,0,0,"[""Non-Travel"", ""Travel_Frequently"", ""Travel_Rarely""]"
+DailyRate,int64,数量,0,886,102,1499,0,0,
+Department,str,类别,0,3,,,0,0,"[""Human Resources"", ""Research & Development"", ""Sales""]"
+DistanceFromHome,int64,数量,0,29,1,29,0,0,
+Education,int64,有序类别,0,5,1,5,0,0,"[1, 2, 3, 4, 5]"
+EducationField,str,类别,0,6,,,0,0,"[""Human Resources"", ""Life Sciences"", ""Marketing"", ""Medical"", ""Other"", ""Technical Degree""]"
+EmployeeCount,int64,常量,0,1,1,1,0,0,[1]
+EmployeeNumber,int64,标识符,0,1470,1,2068,0,0,
+EnvironmentSatisfaction,int64,有序类别,0,4,1,4,0,0,"[1, 2, 3, 4]"
+Gender,str,类别,0,2,,,0,0,"[""Female"", ""Male""]"
+HourlyRate,int64,数量,0,71,30,100,0,0,
+JobInvolvement,int64,有序类别,0,4,1,4,0,0,"[1, 2, 3, 4]"
+JobLevel,int64,有序类别,0,5,1,5,0,0,"[1, 2, 3, 4, 5]"
+JobRole,str,类别,0,9,,,0,0,"[""Healthcare Representative"", ""Human Resources"", ""Laboratory Technician"", ""Manager"", ""Manufacturing Director"", ""Research Director"", ""Research Scientist"", ""Sales Executive"", ""Sales Representative""]"
+JobSatisfaction,int64,有序类别,0,4,1,4,0,0,"[1, 2, 3, 4]"
+MaritalStatus,str,类别,0,3,,,0,0,"[""Divorced"", ""Married"", ""Single""]"
+MonthlyIncome,int64,数量,0,1349,1009,19999,0,0,
+MonthlyRate,int64,数量,0,1427,2094,26999,0,0,
+NumCompaniesWorked,int64,数量,0,10,0,9,0,0,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]"
+Over18,str,常量,0,1,,,0,0,"[""Y""]"
+OverTime,str,类别,0,2,,,0,0,"[""No"", ""Yes""]"
+PercentSalaryHike,int64,数量,0,15,11,25,0,0,
+PerformanceRating,int64,有序类别,0,2,3,4,0,0,"[3, 4]"
+RelationshipSatisfaction,int64,有序类别,0,4,1,4,0,0,"[1, 2, 3, 4]"
+StandardHours,int64,常量,0,1,80,80,0,0,[80]
+StockOptionLevel,int64,有序类别,0,4,0,3,0,0,"[0, 1, 2, 3]"
+TotalWorkingYears,int64,数量,0,40,0,40,0,0,
+TrainingTimesLastYear,int64,数量,0,7,0,6,0,0,"[0, 1, 2, 3, 4, 5, 6]"
+WorkLifeBalance,int64,有序类别,0,4,1,4,0,0,"[1, 2, 3, 4]"
+YearsAtCompany,int64,数量,0,37,0,40,0,0,
+YearsInCurrentRole,int64,数量,0,19,0,18,0,0,
+YearsSinceLastPromotion,int64,数量,0,16,0,15,0,0,
+YearsWithCurrManager,int64,数量,0,18,0,17,0,0,

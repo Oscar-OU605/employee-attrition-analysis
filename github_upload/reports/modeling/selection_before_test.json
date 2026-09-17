@@ -1,0 +1,26 @@
+{
+  "selected": "logistic_regression",
+  "criterion": "training five-fold mean average precision",
+  "models": [
+    {
+      "model": "logistic_regression",
+      "cv_ap": 0.68248703351352,
+      "cv_ap_std": 0.042113819648096455,
+      "best_params": {
+        "model__C": 0.1,
+        "model__class_weight": null
+      }
+    },
+    {
+      "model": "random_forest",
+      "cv_ap": 0.5537130659890767,
+      "cv_ap_std": 0.07971208508890869,
+      "best_params": {
+        "model__class_weight": null,
+        "model__max_depth": null,
+        "model__min_samples_leaf": 1
+      }
+    }
+  ],
+  "threshold": 0.5
+}
